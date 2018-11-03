@@ -1,5 +1,5 @@
 # aisleriot-card-decks
-card decs for linux games
+card decks for linux games
 http://vectorcarddecks.altervista.org/
 Installation of the downloaded deck for the solitaire aisleriot (for ubuntu, mint and other debian derivation distro):
 with root privileges enter the /usr/share/aisleriot/card folder and copy the downloaded files
